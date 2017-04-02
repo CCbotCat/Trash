@@ -195,4 +195,4 @@ bot.on('unhandledRejection', e => { console.error("Keep your sandwich. Uncaught 
 bot.on('warn', e => { console.warn("Uh oh."); });
 bot.on('debug', e => { console.info("constructing additional pylons..."); });
 //bot token goes here:
-bot.login("MjI4MzY5MjAwNDAwMzAyMDgx.CsWd9A.9tq5XhPH37sd62InNunGrRZAEiA");
+bot.login()
